@@ -5,8 +5,8 @@ A specialized, academic-focused web application developed for presenting educati
 ---
 
 ## 🚀 Live Demo & Repository
-*   🔗 **Live Website:** [Zoology Academic Live Site](https://zoology-academic-demo-project.netlify.app/)
-*   📁 **GitHub Repository:** [Source Code](https://github.com/Amr-Ismail-AI/zoology-academic-project)
+*   🔗 **Live Website:** [Zoology Academic Live Site](https://dr-rema-web-site.vercel.app/)
+*   📁 **GitHub Repository:** [Source Code](https://github.com/Amr-Ismail-AI/Dr-Rema-WebSite)
 
 ---
 
